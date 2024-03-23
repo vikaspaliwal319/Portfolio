@@ -1,0 +1,15 @@
+.mt-n{
+    margin-top: -8rem !important;
+}
+
+.hand {
+    cursor: pointer;
+}
+
+.rounded-img{
+    border-radius: 5rem;
+}
+
+.btn-rounded{
+    border-radius: 10rem;
+}
